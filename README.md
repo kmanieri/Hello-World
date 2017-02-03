@@ -1,6 +1,6 @@
 # Markdown Reference formatting
 
-* Here is a *link* to [Phoenix Contact's Website](www.phoenixcontact.com)
+* Here is a *link* to [Phoenix Contact's Website](https://www.phoenixcontact.com)
 * The word is now **Bold**! Yay
 
 ##Task List
